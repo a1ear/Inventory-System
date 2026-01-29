@@ -1,0 +1,7 @@
+{
+  "name": "StockFlow AI",
+  "description": "High-end inventory management with Gemini AI support and HelioHost PHP backend integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
